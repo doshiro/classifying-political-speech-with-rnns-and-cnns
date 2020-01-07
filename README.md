@@ -1,7 +1,7 @@
 # CLASSIFYING 2020 PRESIDENTIAL CANDIDATE SPEECHES WITH RECURRENT AND CONVOLUTIONAL NEURAL NETWORKS
 A Natural Language Processing Project that explores the classification of political speech through RNNs and CNNs.
 
-IMAGE
+![Project Header](/images/header.jpg)
 
 From the abstract:
 
