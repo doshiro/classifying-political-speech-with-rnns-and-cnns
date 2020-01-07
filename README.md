@@ -9,4 +9,11 @@ From the abstract:
 
 This was a final project for LIGN 167: Natural Language Processing at UC San Diego which received an A. 
 
+![Writeup Page 1](/images/1.jpg)
+![Writeup Page 2](/images/2.jpg)
+![Writeup Page 3](/images/3.jpg)
+![Writeup Page 4](/images/4.jpg)
+![Writeup Page 5](/images/5.jpg)
+
+
 For more information, please see the `Classifying 2020 Presidential Candidate Speeches with Recurrent and Convolutional Neural Networks.pdf` and / or the `Project Presentation.pdf`.
